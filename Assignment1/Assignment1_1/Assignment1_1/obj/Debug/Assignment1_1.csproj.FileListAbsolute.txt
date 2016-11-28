@@ -1,0 +1,6 @@
+E:\ITC110 Programming\Assignment1_1\Assignment1_1\bin\Debug\Assignment1_1.exe.config
+E:\ITC110 Programming\Assignment1_1\Assignment1_1\bin\Debug\Assignment1_1.exe
+E:\ITC110 Programming\Assignment1_1\Assignment1_1\bin\Debug\Assignment1_1.pdb
+E:\ITC110 Programming\Assignment1_1\Assignment1_1\obj\Debug\Assignment1_1.csprojResolveAssemblyReference.cache
+E:\ITC110 Programming\Assignment1_1\Assignment1_1\obj\Debug\Assignment1_1.exe
+E:\ITC110 Programming\Assignment1_1\Assignment1_1\obj\Debug\Assignment1_1.pdb

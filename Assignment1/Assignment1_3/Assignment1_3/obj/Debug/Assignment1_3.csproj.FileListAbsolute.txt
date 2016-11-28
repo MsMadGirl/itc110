@@ -1,0 +1,5 @@
+E:\ITC110 Programming\Assignment1_3\Assignment1_3\bin\Debug\Assignment1_3.exe.config
+E:\ITC110 Programming\Assignment1_3\Assignment1_3\bin\Debug\Assignment1_3.exe
+E:\ITC110 Programming\Assignment1_3\Assignment1_3\bin\Debug\Assignment1_3.pdb
+E:\ITC110 Programming\Assignment1_3\Assignment1_3\obj\Debug\Assignment1_3.exe
+E:\ITC110 Programming\Assignment1_3\Assignment1_3\obj\Debug\Assignment1_3.pdb
