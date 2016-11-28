@@ -1,2 +1,2 @@
 # itc110
-Code for my ITC110 class
+Code for my ITC110 C# class
