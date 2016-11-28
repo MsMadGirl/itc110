@@ -1,0 +1,54 @@
+09/27/16
+
+First generation: Machine code
+
+Second gen: Assembly code
+
+Third gen: Programming languages
+
+Fourth gen: lots of drag-n-drop (Unity, Scratch), or something like SQL
+
+
+
+When you start to write a program, map it out first. Figure out inputs, outputs, how do you get from input to output.
+
+
+
+"using" statements point to libraries
+
+namespace collects things that go together, things that do not share a namespace will not work together
+
+curly braces designate starts and stops of blocks
+
+when you encounter errors, likely to be braces, START AT TOP, fixing the top brace may fix it all
+
+C# is case sensitive
+
+all code will be contained in classes
+
+methods are always inside of classes
+
+// for comments
+
+counting begins with 0
+
+methods always have ()
+
+09/29/16
+
+Compile errors -- will not compile due to errors in code, like misspelled keywords or missing braces or semicolons
+Runtime errors -- errors that happen when running, many of which are due to user inputs
+Logical errors -- errors in the logic of the program, usually don't cause to fail or crash
+
+11/15/16
+Classes
+
+Basic principles of object-oriented programming
+
+Inheritence - one object has child objects that inherit the properties of the parents class. object person has child objects customer and employee
+
+Abstraction - classes should be as abstract/general as possible
+
+Polymorphism - ideally you can make it adapt to different contexts, like buttons or forms
+
+Encapsulation - two things: a class should be about one thing, and it should be self-contained as far as possible; components, lego idea; reusable code
