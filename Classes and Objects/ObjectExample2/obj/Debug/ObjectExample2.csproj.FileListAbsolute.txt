@@ -1,0 +1,2 @@
+c:\users\rscott\documents\visual studio 2015\Projects\ObjectExample2\ObjectExample2\bin\Debug\ObjectExample2.exe.config
+c:\users\rscott\documents\visual studio 2015\Projects\ObjectExample2\ObjectExample2\obj\Debug\ObjectExample2.csprojResolveAssemblyReference.cache
